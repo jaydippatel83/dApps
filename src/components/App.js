@@ -115,8 +115,8 @@ class App extends Component {
         </nav>
         <div className="container-fluid mt-5 text-center">
         <br></br>
-          <h1>Welcome to d₿ank</h1>
-          <h2>{this.state.account}</h2>
+          <h1>Welcome to CodeCrunch dApps</h1>
+          <p className="wallet-address">{this.state.account}</p>
           <br></br>
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">

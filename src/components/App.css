@@ -1,2 +1,12 @@
 /* Styles go here */
- 
+ .wallet-address {
+     color: #2f37a7;
+     font-weight: bold;
+     text-overflow: ellipsis; 
+     padding: 10px 20px;
+     margin: 0;
+ }
+ .content{
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    padding: 20px;
+ }
